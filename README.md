@@ -4,6 +4,8 @@ Easily Add Free Networking To Your VR Game Using EOS Relay Servers! (Not license
 
 [Want to easily use Photon in your game? Check out PhotonVR by fchb!](https://github.com/fchb1239/PhotonVR)
 
-This package is not possible without these amazing pacakges!
-[Mirror Networking](https://github.com/vis2k/Mirror)
-[EpicOnlineTransport](https://github.com/FakeByte/EpicOnlineTransport)
+> This package is not possible without these amazing packages!
+
+> [Mirror Networking](https://github.com/vis2k/Mirror)
+
+> [EpicOnlineTransport](https://github.com/FakeByte/EpicOnlineTransport)
