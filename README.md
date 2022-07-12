@@ -30,3 +30,8 @@ This will work out of the box, but to specify what kind of match should be joine
 A queue can be any string you want, such as "infection". You will only matchmake with those who have the same queue. Obviously you can do multiple parameters, like this for example "infection:forest". The colon is optional and just a visual way to see the "separate" options
 
 Example with queue: ```EOSforVR.Matchmake("mainRoom:hunt:competitive");```
+
+# Leaving rooms
+To leave a room, just run this code:
+
+```EOSforVR.LeaveRoom();```
