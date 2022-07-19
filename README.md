@@ -4,7 +4,7 @@
 
 [Want to easily use Photon in your game? Check out PhotonVR by fchb!](https://github.com/fchb1239/PhotonVR)
 
-> ⚠️This package is not finished yet
+> ⚠️This package is no longer in development. A new remade version will be available [here!](https://github.com/TheScruffyKat/chartreux.vr)
 
 
 ## This package is not possible without these amazing packages!
